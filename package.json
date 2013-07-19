@@ -1,8 +1,8 @@
 {
-  "name": "johnny-five",
-  "description": "Firmata based Arduino Programming Framework.",
+  "name": "johnny-five-plus-raspicam",
+  "description": "Firmata based Arduino Programming Framework with support for Raspberry Pi camera.",
   "version": "0.6.18",
-  "homepage": "https://github.com/rwldrn/johnny-five",
+  "homepage": "https://github.com/troyth/johnny-five",
   "author": {
     "name": "Rick Waldron <waldron.rick@gmail.com>",
     "email": "waldron.rick@gmail.com"
